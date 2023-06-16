@@ -26,7 +26,7 @@ Explore the interactive visualizations and gain insights into the accident data.
 
 ## Dashboard Snap-shots
 
-![Screenshot](snap1.png)
+![Screenshot](imgs/snap1.png)
 
 ### Technologies Used
 - Python
